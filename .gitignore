@@ -1,0 +1,5 @@
+*.py  #ignore all pyhon files
+*.tmp #ignore temporary files
+new/  #ignore new directories
+README.txt #ignore explicit file
+new/*  #ignore files under the new folder
