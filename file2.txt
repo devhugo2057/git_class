@@ -1,1 +1,2 @@
 This is file 2
+All at once
